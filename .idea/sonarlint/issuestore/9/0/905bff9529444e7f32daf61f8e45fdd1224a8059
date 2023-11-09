@@ -1,0 +1,7 @@
+
+D
+java:S1125W"'Remove the unnecessary boolean literal.(àÇÜï8¬Õ¬¢»1
+R
+java:S1751Y"5Remove this "break" statement or make it conditional.(›ûä·8­Õ¬¢»1
+E
+java:S1905p")Remove this unnecessary cast to "double".(Â»éb8­Õ¬¢»1
